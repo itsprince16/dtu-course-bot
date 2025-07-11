@@ -1,0 +1,1 @@
+worker: python dtu_register_bot.py
